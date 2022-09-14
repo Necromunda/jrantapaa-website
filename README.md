@@ -2,10 +2,10 @@
 
 ## Heroku address
 ```
-https://jrantapaa-website.herokuapp.com/
+[Heroku](https://jrantapaa-website.herokuapp.com/)
 ```
 
-## Instructions to run locally
+## How to run locally
 ```
 git clone https://github.com/Necromunda/jrantapaa-website.git
 cd jrantapaa-website
