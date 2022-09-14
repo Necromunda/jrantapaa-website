@@ -24,12 +24,12 @@ div p {
     text-align: center;
 }
 
-div input:hover {
+#btn:hover {
     background-color: rgb(155, 155, 155);
 }
 
 div input {
-    padding: 15px 32px;
-    font-size: 1em;
+    /* padding: 15px 32px; */
+    font-size: 1.5em;
     border-radius: 5px;
 }

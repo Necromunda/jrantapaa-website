@@ -9,10 +9,11 @@
 </head>
 <body>
     <div id="target-div">
-        <p id="target"></p>
+        <p id="targetDisplay"></p>
     </div>
     <div id="button-div">
-        <input id="btn" type="button" value="Press me!" onclick="helloWorld()"/>
+        <input id="targetText" type="text" maxlength="30" required  placeholder="Write something..."/>
+        <input id="btn" type="button" value="Display!" onclick="showText()"/>
     </div>
     <script src="./code.js"></script>
 </body>
