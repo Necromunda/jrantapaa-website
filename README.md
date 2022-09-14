@@ -1,7 +1,7 @@
-# Pilvipalvelut Viikko 5 - Johannes Rantapää
+# Cloud services Week 5 - Johannes Rantapää
 
 ## Heroku address
-[Heroku](https://jrantapaa-website.herokuapp.com/)
+See in [Heroku](https://jrantapaa-website.herokuapp.com/)
 
 ## How to run locally
 ```
