@@ -1,5 +1,7 @@
 # Cloud services Week 5 - Johannes Rantapää
 
+## Requires JavaScript to be enabled in browser
+
 ## Heroku address
 See in [Heroku](https://jrantapaa-website.herokuapp.com/)
 
