@@ -1,6 +1,11 @@
 # Pilvipalvelut Viikko 5 - Johannes Rantapää
 
-## Instructions
+## Heroku address
+```
+https://jrantapaa-website.herokuapp.com/
+```
+
+## Instructions to run locally
 ```
 git clone https://github.com/Necromunda/jrantapaa-website.git
 cd jrantapaa-website
