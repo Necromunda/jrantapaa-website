@@ -1,0 +1,35 @@
+html, body {
+    background-color: rgb(224, 224, 224);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#target-div {
+    height: 100px;
+    background-color: rgb(255, 77, 64);
+    margin: 0;
+    padding: 0;
+}
+
+div p {
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+}
+
+#button-div {
+    padding-top: 1em;
+    text-align: center;
+}
+
+div input:hover {
+    background-color: rgb(155, 155, 155);
+}
+
+div input {
+    padding: 15px 32px;
+    font-size: 1em;
+    border-radius: 5px;
+}
